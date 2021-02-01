@@ -1,0 +1,20 @@
+.container{
+    margin-top: 50;
+}
+
+.row{
+    margin-top: 100px;
+}
+.card {
+    box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26);
+  }
+  img.d-inline-block{
+      border-radius: 50%;
+  }
+  .btn-primary{
+    background-color: #d71a38;
+    border: none;
+  }
+  .btn-primary:hover{
+    background-color: indianred;
+  }

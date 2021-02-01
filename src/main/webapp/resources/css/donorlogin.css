@@ -1,0 +1,66 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+
+
+.main-head{
+    height: 150px;
+    background: #FFF;
+   
+}
+
+.sidenav {
+    height: 100%;
+    background-color: #d71a38;;
+    overflow-x: hidden;
+    padding-top: 20px;
+    width: 40%;
+    position: fixed;
+    z-index: 1;
+    top: 60;
+    left: 0;
+}
+
+
+.main {
+    padding: 0px 10px;
+    margin-left: 40%; 
+}
+
+
+
+
+  
+
+   
+
+    .login-form{
+        margin-top: 80%;
+    }
+
+   
+
+
+
+.login-main-text{
+    margin-top: 20%;
+    padding: 60px;
+    color: #fff;
+}
+
+.login-main-text h2{
+    font-weight: 300;
+}
+
+.btn-black{
+    background-color: #d71a38 !important;
+    color: #fff;
+}
+input.form-control{
+    border-color: #d71a38;
+    
+}
+img.d-inline-block{
+    border-radius: 50%;
+}
